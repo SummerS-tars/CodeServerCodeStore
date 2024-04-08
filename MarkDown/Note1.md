@@ -1,8 +1,8 @@
-<C++ universal structure e.g.>
+# <C++ universal structure e.g.>
 
 1st header file(头文件)
-#include 
-+usual <iostream/cstdio> 
+    #include
+    +usual <iostream/cstdio>
 
 2nd namespace
 using namespace(命名空间) std;

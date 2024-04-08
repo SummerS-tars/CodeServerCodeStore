@@ -1,23 +1,16 @@
-<1st class basic knowledge of C++>
-
-
-
-
+# <1st class basic knowledge of C++>
 
 >>1st variable(变量)
 enable our programs to store some information
-
-
-
 >kinds:
-1 bool 
+1 bool
 true/false
 
-2 char 
+2 char
 e.g. 'a','c',' '(space),'\n'(enter(回车))
 //store single character
 
-3 int 
+3 int
 -2147483648 ~ 2147483647
 //-2^31~2^31-1(2^32 numbers in total)
 
@@ -34,8 +27,6 @@ e.g 1.12,2.5,1.235e2
 7 long double
 //more precise
 
-
-
 *>filesize(文件大小)
 B(Byte)
 b(bit)
@@ -50,8 +41,6 @@ double-8byte
 long long-8byte
 long double-at least 8byte
 
-
-
 >>2nd define and output variable
 
 define
@@ -59,8 +48,6 @@ seen in "kinds" above and cpp document "difineandoutputvariable.cpp"
 
 output
 cin >> & cout <<
-
-
 
 >summarize of scanf and printf
 
@@ -74,11 +61,10 @@ long long:%lld
 
 //in some situations cin can be used to replace scanf
 
-
 >>3rd expression(表达式)
 
 1 calculate symbol
-+ - * / %
+//+ - * / %
 
 2 order
 the same as math
@@ -95,8 +81,6 @@ the same as math
 //e.g.```cout << 5 % 2 << endl;``` will output 1
 ```cout << -5 % 2 << endl;``` will output -1
 and if replace the "2" with "-2" the result wont change
-
-
 
 >>4nd common error
 
