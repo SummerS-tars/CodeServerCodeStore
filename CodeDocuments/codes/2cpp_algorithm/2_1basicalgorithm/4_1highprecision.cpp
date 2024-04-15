@@ -25,7 +25,7 @@ int main()
     string a , b ;
     vector <int> A , B ;
 
-    cin >> a >>  b ;
+    cin >> a >> b ;
     for ( int i = a.size() - 1 ; i >= 0 ; i -- ) A.push_back( a[ i ] - '0' ) ;//不要忘记a[ i ]算是char字符类型
     for ( int i = b.size() - 1 ; i >= 0 ; i -- ) B.push_back( b[ i ] - '0' ) ;
     //存入部分
